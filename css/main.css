@@ -1,0 +1,11 @@
+.img-box{
+	column-count: 4;
+	column-gap: 0px;
+}
+.image{
+	width: 10%;
+	display: block;
+}
+.img + .image{
+	margin: 6px;
+}
